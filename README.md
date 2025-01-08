@@ -5,13 +5,13 @@ Soy un profesional dinámico y apasionado por la tecnología, con una sólida ex
 
 - 🌍 **Ubicación:** Murcia, España
 - 🎓 **Educación:** Ingeniería Técnica en Telecomunicaciones y Técnico Superior en Desarrollo de Aplicaciones Web
-- 💼 **Actualmente:** Técnico de Proyectos en CEEIC & Secretario Territorial en COGITTRM_ACARMITT
+- 💼 **Actualmente:** Profesor de Formación Profesional & Secretario Territorial en COGITTRM_ACARMITT
 - 🌐 **Sitio web personal:** [rubenvalentin.com](http://www.rubenvalentin.com)
 - 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/rubenvalentinrv/) | [Twitter](https://twitter.com/RubenValentinRV)
 
 ## Aptitudes principales
 - Desarrollo web con **HTML, CSS, JavaScript**
-- Diseño gráfico con **Photoshop** y desarrollo en **Dreamweaver**
+- Diseño gráfico
 - Metodologías ágiles y herramientas como **Crystal Reports**
 - Desarrollo de software en **.NET Core**, **ASP.NET**, y bases de datos
 - **Business Intelligence** y robótica educativa
@@ -23,7 +23,7 @@ Soy un profesional dinámico y apasionado por la tecnología, con una sólida ex
 ## Experiencia profesional destacada
 
 ### CEEIC - Técnico de Proyectos
-*Julio 2021 - Presente*  
+*Julio 2021 - 2023*  
 Coordinación y gestión de proyectos de innovación empresarial. Desarrollo de soluciones tecnológicas para empresas emergentes.
 
 ### COGITTRM_ACARMITT - Secretario Territorial
