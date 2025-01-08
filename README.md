@@ -53,4 +53,4 @@ Además de mi pasión por la tecnología y el diseño, disfruto explorando disci
 
 ---
 
-Espero que encuentres útil esta versión. ¿Te gustaría personalizar algo más o incluir algún proyecto específico?
+
