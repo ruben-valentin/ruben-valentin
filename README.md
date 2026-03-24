@@ -1,3 +1,5 @@
+<img src="dinosaur.jpg" />
+
 # ¡Hola! Soy Rubén Valentín 👋
 
 ## Sobre mí
